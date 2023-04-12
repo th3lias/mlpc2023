@@ -1,4 +1,4 @@
-/.idea/
+/.idea
 /trainset_python.zip
-!/dataset/
-/jupyter_notebooks/.ipynb_checkpoints/
+/dataset
+/Notebooks/.ipynb_checkpoints/
